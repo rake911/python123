@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StandaloneTarget>
+    <PythonInterpreter>
+      <Id>2af0f10d-7135-4994-9156-5d01c9c11b7e</Id>
+      <Version>2.7</Version>
+    </PythonInterpreter>
+    <WorkingDirectory>D:\Users\Anton\Desktop\python stuff</WorkingDirectory>
+    <Script>D:\Users\Anton\Desktop\python stuff\hwp9.py</Script>
+    <Arguments />
+  </StandaloneTarget>
+</ProfilingTarget>

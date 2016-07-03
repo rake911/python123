@@ -1,0 +1,326 @@
+6,06:08:35  RTRS - China auctions 1.79 mln tonnes of corn from state reserves -national trade centre
+17,23:22:05  ESLQ - ESALQ Corn Analysis
+21,"22:25:32  RTRS - GRAINS-Profit-taking pulls soy from 2-year highs; corn, wheat firm"
+24,"22:03:22  RTRS - TABLE-Funds buy corn, wheat; sell soybeans"
+27,21:33:05  RTRS - CBOT corn rises as exports heat up
+29,"21:17:11  RTRS - BRIEF-INTL FCStone cuts 434,000 t more from Brazil 2nd corn crop"
+41,"19:04:39  RTRS - CIF Gulf Grain-Corn, soybean basis bids steady to weak"
+57,"16:25:10  RTRS - CBOT Trends-Wheat up 1-3 cents, corn up 1-2, soybeans up 15-18"
+59,"14:05:00  RTRS - RPT-Record Brazil corn prices shrink poultry, hog producers"
+70,"07:00:01  RTRS - Record Brazil corn prices shrink poultry, hog producers"
+71,06:40:40  RTRS - TECHNICALS-CBOT corn may seek support around $4.10-1/4 before rising
+90,"22:59:14  RTRS - GRAINS-U.S. soy rallies on export hopes; wheat, corn firm"
+92,22:28:12  MIDTRD - Corning's (GLW) CEO Wendell Weeks Presents at Sanford C Bernstein Strategic Decisions Conference 2016 (Transcript)  GLW.N
+93,"22:09:26  RTRS - TABLE-Funds buy soybean, wheat and corn contracts"
+96,21:36:46  RTRS - CBOT corn rises but closes off session highs
+108,"18:38:33  RTRS - GRAINS-U.S. soybeans surge to near two-year highs; corn, wheat firm"
+118,"16:27:26  RTRS - CBOT Trends-Wheat steady-up 1 cent, corn mixed, soybeans up 5-10"
+123,14:16:49  ZACKSC - Dow Chemical Finishes Dow Corning's Strategic Restructuring  DOW.N
+126,12:29:11  ENPNWS - Dow Completes Strategic Ownership Restructuring of Dow Corning Corporation  DOW.N
+127,12:28:58  ENPNWS - Tate & Lyle PLC - Completion of sale of corn wet mill in Morocco  TATE.L
+129,12:19:07  RTRS - China to increase June 3 corn auction volume to 3.42 mln tonnes
+133,"08:55:37  RTRS - S.Korea's NOFI seeks corn, feed wheat, soybean meal for Sept-Nov"
+135,08:14:46  ECLCTA - Corn kernels (human use)
+136,07:06:56  RTRS - TECHNICALS-CBOT corn may rise to $4.24
+137,"06:51:25  RTRS - GRAINS-Soybeans hit near 2-year high, corn at 10-month top on supply woes"
+138,"06:49:49  RTRS - Asian feed mills snap up wheat cargoes, replace corn for 2nd year"
+143,04:51:06  RTRS - China to auction corn and rice from state reserves on Friday
+151,"00:37:31  RTRS - U.S. Cash Grains-Corn, soy bids at river terminal climb"
+160,"22:45:34  RTRS - GRAINS-U.S. corn, soybeans surge on export prospects, wheat firms"
+164,"22:13:35  RTRS - TABLE-Funds buy wheat, soybean and corn contracts"
+165,22:11:06  RTRS - USDA says corn use in ethanol down from last year in April
+168,21:35:11  RTRS - CBOT corn surges on U.S. export hopes
+170,21:19:23  RTRS - BRIEF-Brazil's Anec cuts corn exports estimate by 7 mln tonnes
+182,20:38:59  RTRS - U.S. Cash Grains-Corn bids flat to firm as futures move higher
+189,"18:43:31  RTRS - CIF Gulf Grain-Corn bids steady/firm, soybeans mixed"
+190,"18:31:33  RTRS - GRAINS-U.S. corn, soybean, wheat  futures rise"
+195,16:48:37  CRF - CRF: Brazilian corn production continues to tumble on extreme drought
+198,16:36:25  CRF - CRF: Argentina corn production slightly up due to higher yields in northern Córdoba
+201,"16:24:49  RTRS - CBOT Trends-Wheat up 2-3 cents, corn down 2-4, soybeans down 3-5"
+202,15:01:12  ASSOPR - Dow Completes Strategic Ownership Restructuring of Dow Corning Corporation
+203,"14:38:26  RTRS - GRAINS-Soy, corn fall on U.S. crop progress; wheat steady after slide"
+204,14:23:39  ENPNWS - Dow Corning Korea Launches Three Molykote Grease Products with Low Temperature and Noise Dampening Properties
+208,06:45:26  RTRS - TECHNICALS-CBOT corn may stabilize around $4.02-3/4 before rising
+209,"06:24:42  RTRS - GRAINS-Soybeans, corn fall for 2nd day on US crop progress; wheat up"
+215,"01:40:32  RTRS - FOB Gulf Grain-Soybean premiums edge higher, corn steady to firm"
+217,"00:37:44  RTRS - U.S. Cash Grains-Corn, soy bids hold as farmer sales remain light"
+244,"22:16:11  RTRS - GRAINS-U.S. wheat drops on weather forecast; corn, soybeans fall"
+246,"21:52:39  RTRS - TABLE-Funds sell corn, soybean and wheat contracts"
+247,21:39:16  RTRS - CBOT corn falls as export inspections miss expectations
+254,"19:26:30  RTRS - POLL-U.S. corn plantings seen 94 pct complete, soy at 70 pct"
+255,"19:10:16  RTRS - U.S. Cash Grains-Corn, soy bids flat on slow farmer sales"
+259,"18:32:58  RTRS - GRAINS-Wheat falls as U.S. weather improves; corn, soy slip"
+260,"18:28:32  RTRS - CIF Gulf Grain-Soybean basis steady/lower, corn mostly unchanged"
+265,"16:29:00  RTRS - CBOT Trends-Wheat down 2-4 cents, corn steady-down 2, soy up 4-6"
+266,"16:15:27  RTRS - Exporters sell soy, change destination of corn sale to Taiwan -USDA"
+272,"14:48:17  RTRS - GRAINS-Soybeans set for 3rd month of gains, corn off 10-month top"
+273,14:00:00  RTRS - RPT-COLUMN-Getting a grip on the condition of the U.S. corn crop -Braun
+276,08:41:45  RTRS - TECHNICALS-CBOT corn may rise to $4.15-1/4
+277,"08:09:04  ECLBFI - Philippines : City agri office to give free rice, corn seeds"
+278,"08:08:07  ECLPCM - Philippines : City agri office to give free rice, corn seeds"
+279,"06:38:40  RTRS - GRAINS-Soybeans set for 3rd month of gains, corn near 10-month top"
+286,00:10:31  RTRS - BRIEF-Brazil's No.1 grain state cuts corn forecast 8 pct from April
+310,"11:57:13  RTRS - Rabobank bearish on soybeans, corn after supply-risk price surge"
+312,"06:43:41  JAKART - Economy in brief: Ministry to integrate corn, oil palm fields"
+314,"18:21:30  MISTNW - Malawi in Talks With Ukraine, Brazil, Mexico for Corn Imports"
+319,00:15:43  RTRS - FOB Gulf Grain-Corn premiums mostly steady on old-crop demand
+321,"23:54:38  RTRS - Export Summary-U.S. sells corn, soybeans, soymeal; Algeria buys wheat"
+323,23:52:05  ESLQ - ESALQ Corn Analysis
+329,"23:12:13  RTRS - GRAINS-Corn sets 10-month high on export demand, technical buying"
+332,22:39:30  RTRS - TABLE-Commodity funds net buyers of CBOT corn and soybeans
+334,21:49:32  RTRS - CBOT corn climbs to 10-month high ahead of U.S. holiday weekend
+335,"21:28:25  RTRS - GRAINS-Corn sets 10-month high on export demand, technical buying"
+343,"20:04:39  RTRS - U.S. Cash Grains-Corn basis steady to mixed on farmer sales, demand"
+348,18:32:21  RTRS - CIF Gulf Grain-Corn mostly steady to firm on export demand
+349,"18:08:33  RTRS - CORRECTED-(OFFICIAL)-Exporters sell U.S. corn to unknown, soybeans to China -USDA"
+359,"16:27:03  RTRS - CBOT Trends-Wheat and corn steady-down 1 cent, soybeans mixed"
+360,"15:00:07  RTRS - UPDATE 1-China auctions 889,094 tonnes of corn from reserves"
+361,15:00:00  RTRS - RPT-COLUMN-Getting a grip on the condition of the U.S. corn crop -Braun
+363,"13:51:50  RTRS - China auctions 889,094 tonnes of corn from state reserves -national trade center"
+373,09:00:00  RTRS - COLUMN-Getting a grip on the condition of the U.S. corn crop -Braun
+375,08:06:21  ECLPCM - Philippines : DA steps up support for corn farmers in region 9
+376,08:05:27  ECLBFI - Philippines : DA steps up support for corn farmers in region 9
+378,"05:28:16  RTRS - China Hebei auctions 153,145 T of state reserve corn at around $228/T"
+386,01:07:14  RTRS - FOB Gulf Grain-Corn offers steady/higher on firm old-crop demand
+399,22:49:25  RTRS - TABLE-Commodity funds net buyers of CBOT corn and wheat
+400,"22:05:59  RTRS - CBOT corn to multi-month highs on export demand, soymeal strength"
+406,19:19:57  RTRS - U.S. Cash Grains-Corn bids weaken as futures hit 10-month high
+413,"18:39:01  RTRS - CIF Gulf Grain-Corn, soybean bids steady to weak on good supplies"
+416,"18:20:51  MISTNW - Malawi in Talks With Ukraine, Brazil, Mexico for Corn Imports"
+432,"16:27:05  RTRS - CBOT Trends-Wheat up 6-8 cents, corn up 2-4, soy up 6-8"
+433,16:11:48  ENPNWS - Corning EDGE8 Solution Named Data Center Cabling Product of the Year  GLW.N
+434,"16:03:14  RTRS - UPDATE 1-IGC raises 2016/17 world wheat, corn crop forecasts"
+435,16:00:05  RTRS - Exporters sell U.S. corn to Taiwan and unknown destinations -USDA
+440,"15:30:00  RTRS - IGC raises 2016/17 world wheat, corn crop forecasts"
+448,"11:45:12  RTRS - UPDATE 1-South Korea’s MFG passes in 70,000 T corn tender - trade"
+449,"11:28:06  RTRS - South Korea’s MFG passes in 70,000 T corn tender - trade"
+451,"08:33:29  ECLTND - Dry film lubricant - molykote d 321 r of dow corning or equivalent brand of bpcl,hpcl,ioc, etc.For 140t dsl hyd breakdown crane ( cowans sheldon - ..."
+452,"08:28:39  ECLTND - Solid lubricant- molykote gn plus of dow corning or equivalent brand of bpcl,hpcl , ioc etc.For 140t dsl hyd breakdown crane cowans sheldon - old d..."
+459,01:18:38  RTRS - FOB Gulf Grain-Corn premiums steady to firmer on good export demand
+461,"00:30:39  RTRS - Export Summary-South Korea buys wheat, Israel buys corn"
+469,"22:56:49  RTRS - TABLE-Commodity funds net buyers of soy, corn and wheat"
+471,22:48:25  RTRS - POLL-Brazil's corn crisis could boost rivals as exports seen sinking
+478,22:12:48  RTRS - Corn glut in China set to pressure U.S. wheat market
+480,"21:57:26  RTRS - CBOT corn to 1-month high on soy strength, technical buying"
+500,"20:34:10  RTRS - UPDATE 1-Israel buys about 108,000t of corn, US-origin likely-trade"
+501,"20:22:38  RTRS - Israel buys about 108,000 T corn, likely U.S.-origin - trade"
+517,"16:44:27  CRF - CRF: Improved soil moisture looks to boost US corn yields, but summer warmth still on the way"
+518,16:37:43  CRF - CRF: Ukraine corn production poised to rebound in 2016/17
+519,"16:24:13  RTRS - CBOT Trends-CBOT wheat up 1-3 cents, corn up 1-2, soybeans up 7-9"
+520,"15:17:57  RTRS - UPDATE 1-China to auction total of 2.2 mln T of state corn, rice on Friday"
+521,"14:00:40  RTRS - China to auction total of 2.2 mln T of state corn, rice on Friday"
+525,13:16:32  CHITRI - What's the best brand of corn tortilla?
+530,"10:57:18  RTRS - South Korea’s MFG tenders for up to 70,000 tonnes corn"
+552,"21:46:06  RTRS - CBOT corn ends narrowly mixed, paring gains as soy retreats"
+557,20:23:22  RTRS - REFILE-U.S. Cash Grains-Corn basis steady to higher at ethanol plants
+562,18:21:31  MISTNW - Pioneer to Cut Costs Even as Profit Rises Amid Higher Corn Price
+564,17:28:00  ENPNWS - Solenis Licenses Patented Corn Oil Extraction Technology to Buckman
+567,"16:28:04  RTRS - CBOT Trends-CBOT wheat down 3-4 cents, corn down 1-3, soy down 14-16"
+575,"12:57:29  RTRS - UPDATE 1-Taiwan's MFIG buys 65,000 tonnes U.S. corn in tender- trade"
+576,"12:44:42  RTRS - Taiwan's MFIG buys 65,000 tonnes U.S. corn in tender- trade"
+590,"00:29:51  RTRS - Export Summary-Morocco, Algeria seek wheat; Taiwan, Israel seek corn"
+591,"00:22:15  RTRS - U.S. Cash Grains-Corn, soy basis unchanged as farmers plant seeds"
+620,"22:03:32  RTRS - CBOT corn ends up, gains against soy on inter-market spreads"
+625,19:12:53  RTRS - POLL-U.S. corn plantings seen 88 pct complete in latest week
+627,"18:57:49  RTRS - U.S. Cash Grains-Corn, soy bids steady to firm as farmers work fields"
+631,18:21:40  MISTNW - Pioneer to Cut Costs Even as Profit Rises Amid Higher Corn Price
+644,"16:28:27  RTRS - CBOT Trends-CBOT wheat down 4-6 cents, corn dn 2-3, soy dn 10-15"
+652,13:55:00  ENPNWS - Dow Corning: Exploring the Architectural and Structural Applications of Glass at Challenging Glass Conference 5
+654,"09:56:26  RTRS - UPDATE 1-Taiwan’s MFIG tenders to buy up to 65,000 tonnes corn"
+655,"09:45:22  RTRS - UPDATE 1-Israeli group tenders to buy corn, feed wheat, barley -trade"
+656,"09:43:56  RTRS - Taiwan’s MFIG tenders to buy up to 65,000 tonnes corn"
+660,"08:46:21  RTRS - Israeli group tenders to buy corn, feed wheat, barley- trade"
+681,00:32:45  RTRS - U.S. Cash Grains-Soy bids steady to firm; corn flat
+687,23:22:04  ESLQ - ESALQ Corn Analysis
+690,"23:01:01  RTRS - TABLE-Commodity funds net buyers of corn, soybeans, soymeal"
+692,"22:20:01  RTRS - CBOT corn ends higher on technical buying, strength in soy"
+711,18:16:03  RTRS - Brazil's Safras & Mercado cuts second corn crop forecast
+727,"16:27:34  RTRS - CBOT Trends-CBOT wheat and corn up 2-3 cents, soy up 8-12"
+728,"16:00:05  RTRS - Exporters sell 125,000 T U.S. corn to Colombia for 2015/16 -USDA"
+730,15:16:36  ENPNWS - Dow Corning Engineer Jim Curtis Wins C. William Hall Award from the Society for Biomaterials
+733,"13:19:20  RTRS - South Korea's KOCOPIA passes in 55,000 T corn tender- trade"
+740,"07:14:50  RTRS - S.Korea's KOCOPIA seeks 55,000 T corn for August"
+742,06:22:33  RTRS - TECHNICALS-CBOT corn may retest support at $3.85-1/2
+746,04:37:22  RTRS - TABLE-Japan's use of corn in animal feed rises in March
+749,"01:22:23  RTRS - Export Summary-Philippines, Japan buy wheat; South Korea passes on corn"
+750,01:10:51  RTRS - FOB Gulf Grain-Corn basis offers steady to higher on demand
+752,"00:35:57  RTRS - U.S. Cash Grains-Corn, soy bids steady to firm, sales slow"
+762,"22:56:03  RTRS - TABLE-Commodity funds net sellers of corn, wheat and soybeans"
+764,"22:08:01  RTRS - Soy price jump likely to boost U.S. plantings of both soybeans, corn"
+767,"21:40:42  RTRS - CBOT corn down 2 pct on broad commodities weakness, U.S. weather"
+778,"19:47:52  RTRS - CIF Gulf Grain-Corn, soy basis steady to weak on limited demand"
+780,"18:37:52  RTRS - U.S. Cash Grains-Corn bids mixed, soybeans mostly steady"
+783,"17:48:24  RTRS - UPDATE 1-Dry weather, firm prices induce early Brazil winter corn harvest -tour"
+796,"16:29:03  RTRS - Dry weather, firm prices induce early Brazil winter corn harvest -tour"
+797,"16:26:50  RTRS - CBOT Trends-CBOT wheat down 7-8 cents, corn dn 4-6, soy dn 10-12"
+802,16:06:31  ENPNWS - Corning Iris Glass Named a Display Component of the Year by Society for Information Display  GLW.N
+804,15:03:39  DATMTR - Dow announces retirement of chairman and CEO of Dow Corning  DOW.N
+806,14:11:53  RTRS - GRAINS-Corn eases from one-month high as dollar extends rally
+816,"12:23:24  RTRS - UPDATE 1-South Korea’s MFG passes in 140,000 T corn tender -trade"
+817,"12:05:09  RTRS - South Korea’s MFG passes in 140,000 T corn tender - trade"
+819,07:32:29  RTRS - TECHNICALS-CBOT corn may end correction in $3.93-1/4 to $3.95-1/4 range
+820,06:13:38  RTRS - GRAINS-Corn eases from one-month high; soy falls for second day on dollar gain
+825,04:32:17  RTRS - GRAINS-Corn falls for first time in six sessions as dollar weighs
+833,00:06:36  RTRS - U.S. Cash Grains-Corn bids steady to mixed after light farmer sales
+839,23:43:09  RTRS - FOB Gulf Grain-Corn premiums steady/firm on demand; soft wheat weak
+844,"22:49:43  RTRS - TABLE-Commodity funds net buyers of corn; sellers of soy, wheat"
+848,"22:09:10  RTRS - GRAINS-U.S. corn futures extend winning streak; soy, wheat ease"
+849,22:07:18  RTRS - Second crop in Brazil's top corn-growing state faces losses
+850,"21:55:59  RTRS - CBOT corn to 4-wk high on short-covering, spreading against soy"
+870,19:14:41  RTRS - GRAINS-Soy futures fall but trade above session lows; corn firms
+872,18:46:49  RTRS - U.S. Cash Grains-Corn bids ease on increased farmer offerings
+880,16:35:10  CRF - CRF: Favorable weather to-date keeps EU-28 corn production well above last season
+881,16:31:13  CRF - CRF: No immediate risks to China corn production amid adequate soil moisture
+882,"16:26:42  RTRS - CBOT Trends-CBOT wheat down 2-4 cents, corn down 2-3, soy down 8-10"
+885,14:16:35  ZACKSC - Dow: Leadership Changes Post-Dow Corning Restructuring  DOW.N
+886,"13:12:38  RTRS - GRAINS-Soybeans, corn and wheat drop in pullback after early-week rally"
+890,09:06:06  RTRS - TECHNICALS-CBOT corn to rise to $4.02-1/2
+892,08:27:57  ECLBFI - United States : Dow Announces Post-Close Leadership of Dow Corning Corporation  DOW.N
+893,08:27:14  ECLPCM - United States : Dow Announces Post-Close Leadership of Dow Corning Corporation  DOW.N
+894,"07:41:15  RTRS - South Korea’s MFG tenders for up to 140,000 T corn"
+896,"05:39:36  RTRS - GRAINS-Soybeans rise for 2nd day on LatAm supply woes; corn, wheat up"
+908,"00:07:28  RTRS - U.S. Cash Grains-Corn, soy bids ease along rivers on CIF declines"
+916,"23:13:37  RTRS - TABLE-Commodity funds net buyers of soybeans, corn and wheat"
+922,"22:16:24  RTRS - CBOT corn to 3-1/2 week high on technical buying, soy strength"
+934,"18:56:49  RTRS - U.S. Cash Grains-Corn basis steady to weak, soybeans flat"
+935,18:17:55  RTRS - Brazil corn crop losses will require contract renegotiations
+939,"17:37:30  RTRS - CIF Gulf Grain-Corn, soy basis weak on futures gains, ample supplies"
+941,"16:21:58  RTRS - CBOT Trends-CBOT Wheat steady-up 1 cent, corn down 1-2, soy up 3-4"
+944,14:41:35  ENPNWS - Dow Corning to Highlight the Latest Advances in Optical Silicones for LED Lighting at Guangzhou International Lighting Exhibition 2016
+945,14:41:33  ENPNWS - Dow Announces Post-Close Leadership of Dow Corning Corporation  DOW.N
+949,14:25:42  RTRS - GRAINS-Corn eases from two-week top on positive U.S. planting progress
+955,"08:50:36  RTRS - S. Korea's NOFI tenders for 65,000 T corn plus wheat and soymeal"
+957,08:42:22  RTRS - TECHNICALS-CBOT corn may rise to $3.96
+958,06:45:22  RTRS - GRAINS-Corn eases from two-week top on positive U.S. planting progress
+963,04:46:32  RTRS - GRAINS-Corn falls from near two-week high
+970,"23:43:24  RTRS - U.S. Cash Grains-Wheat basis eases 10 cents in Chicago; corn, soy flat"
+971,23:31:11  RTRS - FOB Gulf Grain-Corn premiums steady on routine demand
+972,23:30:08  RTRS - Export Summary-U.S. sells corn to South Korea
+975,"23:23:42  RTRS - GRAINS-U.S. corn rises on technical buying, planting switch"
+991,"22:07:31  RTRS - TABLE-Commodity funds net buyers of corn; even in soybeans, wheat"
+993,21:28:16  RTRS - CBOT corn closes higher for third day in a row
+1001,"18:43:58  RTRS - Informa lowers U.S. corn acreage, boosts soybeans -trade"
+1004,18:26:16  RTRS - U.S. Cash Grains-Corn bids steady to mixed on light farmer sales
+1005,18:25:58  RTRS - POLL-U.S. corn plantings seen 76 pct complete in latest week
+1008,17:34:22  RTRS - Indian soybeans up on delayed monsoon; corn rises
+1009,17:31:17  ASSOPR - Dow Announces Post-Close Leadership of Dow Corning Corporation
+1015,"16:12:27  RTRS - CBOT Trends-CBOT soybeans down 2-5 cents, corn down 2-4 cents, wheat mixed"
+1016,16:00:05  RTRS - Exporters sell U.S. corn to South Korea - USDA
+1018,"14:33:21  RTRS - GRAINS-U.S. corn drops on easing weather concerns, soy edges up"
+1019,08:55:02  RTRS - TECHNICALS-CBOT corn may drop to $3.82
+1020,"05:44:32  RTRS - GRAINS-U.S. corn drops on easing weather concerns, soybeans rise"
+1030,"01:12:52  RTRS - Export Summary-U.S. sells soybeans, buys corn"
+1031,01:01:40  RTRS - U.S. Cash Grains-Corn bids weak on river after CIF declines; soy steady
+1032,"00:57:36  RTRS - FOB Gulf Grain-Corn premiums firm, soy weak as CIF bids ease"
+1044,22:52:06  ESLQ - ESALQ Corn Analysis
+1045,22:44:27  RTRS - TABLE-Commodity funds buy CBOT corn and wheat
+1048,"22:02:20  RTRS - CBOT corn rises on short-covering, spreading against soy"
+1057,"19:02:22  RTRS - CIF Gulf Grain-Spot corn bids dip on firm futures, good supplies"
+1058,18:25:46  RTRS - U.S. Cash Grains-Corn basis bids weak after light farmer sales
+1065,"16:25:31  RTRS - CBOT Trends-CBOT wheat down 1-3 cents, corn down 2-3, soy down 9-11"
+1071,14:09:03  ENPNWS - Dow Corning Opens Building Solutions Centre in New Delhi
+1072,"13:10:33  RTRS - U.S. importers bought about 44,900 T organic corn from Romania"
+1078,09:02:58  ECLTND - Multipurpose Silicon Sealant Clear In A Tube Of 300Ml.Similar To Dow Corning
+1094,00:29:42  RTRS - U.S. Cash Grains-Corn basis steady to weak after futures surge
+1104,"22:49:28  RTRS - TABLE-Commodity funds buy CBOT corn, sell soybeans"
+1107,"22:17:39  RTRS - CBOT corn hits one-week high on export demand, acreage worries"
+1121,18:40:22  RTRS - U.S. Cash Grains-Corn ethanol basis firm; soy bids weak on river
+1131,"16:24:23  RTRS - CBOT Trends-CBOT wheat up 2-4 cents, corn up 3-5, soy up 6-8"
+1138,16:00:05  RTRS - Exporters sell U.S. corn to Saudi Arabia - USDA
+1147,"13:38:36  RTRS - GRAINS-Soybeans rise on tighter supply outlook, pull up wheat, corn"
+1149,"12:55:26  ENPNWS - Dow Corning: to present at STLE annual meeting and exhibition, Las Vegas  DOW.N   GLW.N"
+1155,"00:59:23  RTRS - U.S. Cash Grains-Corn, soy bids mostly steady as sales slow"
+1164,"23:53:23  RTRS - GRAINS-Soy retreats from multi-month highs; corn, wheat follow"
+1177,"22:50:48  RTRS - TABLE-Commodity funds sell CBOT soybeans, corn, wheat"
+1178,"22:40:51  RTRS - CBOT corn ends lower on profit-taking, weakness in soy"
+1179,"22:04:25  RTRS - Argentina dominates Brazil corn imports, U.S. still absent"
+1186,"20:24:19  RTRS - GRAINS-Soy retreats from multimonth highs; corn, wheat follow"
+1199,16:32:27  CRF - CRF: Drought continues to hammer away at Brazilian corn production
+1200,"16:25:11  RTRS - CBOT Trends-CBOT wheat mixed, corn steady-down 1 cent, soy up 2-3"
+1245,"22:36:52  RTRS - TABLE-Commodity funds buy CBOT soybeans, corn, wheat"
+1248,22:01:40  ASSOPR - USDA: Corn crop could reach record 14.4 billion bushels
+1249,"21:58:11  RTRS - CBOT corn ends higher, following soaring soy market"
+1287,18:04:09  RTRS - U.S. Cash Grains-Corn bids up at ethanol plants as futures hit 1-month low
+1289,"17:54:08  RTRS - FACTBOX-Forecasts for Brazil's 2015/16 corn, soy crops"
+1292,16:44:01  RTRS - CORRECTED-Egypt sets price for local cotton and corn crop
+1295,"16:25:50  RTRS - CBOT Trends-CBOT wheat steady-down 1 cent, corn mixed, soy up 8-10"
+1306,"15:15:34  RTRS - BRIEF-Brazil government cuts soy, corn crop forecasts"
+1321,13:50:38  RTRS - GRAINS-Corn hovers at one-month low ahead of USDA report
+1322,11:22:10  HUFFPO - Pete The Farting Corn-Eating Wombat Is Your New Spirit Animal
+1324,"08:37:43  ECLTND - Pen oil industrial grade heavy duty penetrating oil, to product no. 6030 of stanvac or equivalent of itw. loctite, dow corning make in 500 ml aeros..."
+1325,07:17:29  RTRS - GRAINS-Corn rebounds but lingers near one-month low ahead of USDA report
+1328,"04:46:41  RTRS - GRAINS-Corn edges higher, hovers close to near one-month low"
+1329,"00:52:34  RTRS - Export Summary-U.S. sells corn to Japan; Algeria, Taiwan seek wheat"
+1330,"00:44:38  RTRS - FOB Gulf Grain-Corn premiums level on solid demand, soy weak"
+1332,00:04:35  RTRS - U.S. Cash Grains-Corn basis jumps at wet mills; soy gains on rivers
+1344,"23:05:38  RTRS - TABLE-Commodity funds sell CBOT corn, soybeans, wheat"
+1357,22:45:21  RTRS - GRAINS-Corn falls 2 percent ahead of monthly USDA report
+1359,22:35:29  HUFFPO - Here's Why You Shouldn't Eat Corn Off A Power Drill
+1360,21:48:25  RTRS - CBOT corn falls 2 percent ahead of USDA's monthly reports
+1369,18:46:33  RTRS - CIF Gulf Grain-Spot soy bids bounce from lows; corn steady/firm
+1370,18:30:14  RTRS - POLL-U.S. corn plantings seen 62 pct complete in latest week
+1376,18:03:15  RTRS - U.S. Cash Grains-Soy basis rebounds on river; corn steady/firm
+1381,"16:25:19  RTRS - CBOT Trends-CBOT wheat up 1-2 cents, corn steady-up 1, soy up 1-3"
+1382,16:00:05  RTRS - Exporters sell U.S. corn to Japan and unknown destinations - USDA
+1392,12:04:57  INDEPE - Woman's hair pulled from her head during corn drill challenge
+1395,07:57:06  RTRS - China 2016 corn output to fall 2.9 pct as stockpiling ends - think tank
+1396,"05:57:36  RTRS - GRAINS-Soybeans up for 2nd day on strong Chinese demand; corn, wheat firm"
+1406,00:17:22  RTRS - Export Summary-U.S. sells corn to Israel; Tunisia cancels barley tender
+1407,00:14:44  RTRS - FOB Gulf Grain-Corn offers steady/firm on demand optimism
+1417,23:12:04  ESLQ - ESALQ Corn Analysis
+1420,"22:50:00  RTRS - GRAINS-U.S. soy surges as exports hopes rise; corn, wheat firm"
+1424,"22:03:37  RTRS - TABLE-Commodity funds buy CBOT soybeans, corn, wheat"
+1426,21:24:53  RTRS - CBOT corn closes firm on bargain buying
+1437,"18:52:24  RTRS - GRAINS-U.S. soy rallies on bargain buying, export hopes; corn, wheat firm"
+1439,"16:16:28  RTRS - CBOT Trends-CBOT corn up 1-3 cents, wheat steady-up 2 cents; soy mixed"
+1440,16:00:05  RTRS - Exporters sell U.S. corn to Israel - USDA
+1443,13:12:00  HUFFPO - The Adorable Mystery Of Where Baby Corn Comes From
+1452,"04:01:52  RTRS - GRAINS-Corn edges higher, but set for biggest weekly loss in 9 months"
+1457,"00:00:13  RTRS - Export Summary-Israel buys corn, wheat"
+1464,23:24:42  RTRS - AgRural cuts Brazil winter corn crop forecast by 10 percent
+1468,"22:42:10  RTRS - GRAINS-Profit taking sparks sharp drop in soybeans; wheat, corn weaken"
+1474,"22:17:42  RTRS - TABLE-Commodity funds sell soybeans, corn, wheat"
+1476,21:36:21  RTRS - CBOT corn eases on spillover pressure from wheat
+1482,"19:04:30  RTRS - GRAINS-U.S. wheat drops on fundamentals; corn, soy pressured by profit-taking"
+1484,"18:57:45  RTRS - CIF Gulf Grain-Soy, corn basis mostly steady on slow farmer sales"
+1487,"16:17:59  RTRS - CBOT Trends-CBOT soybeans up 8-11 cents; corn, wheat steady to up 2 cents"
+1490,12:20:54  RTRS - UPDATE 2-China corn reserves eyed as crop area to fall for 1st time in 13 years
+1491,10:26:49  RTRS - BRIEF-Gujarat Ambuja Exports proposes to setup greenfield project of corn wet milling in Maharashtra  GAME.NS
+1492,"07:19:39  RTRS - Israeli group buys about 120,000 T corn, 30,000 T wheat - trade"
+1495,"05:36:07  RTRS - China's corn planting areas to fall this year, first drop in 13 years"
+1502,01:38:32  RTRS - Export Summary-India buys Australian wheat; U.S. sells corn to Japan
+1503,"01:35:43  RTRS - FOB Gulf Grain-Corn, soy premiums steady/weak on CIF declines"
+1508,"23:49:34  RTRS - U.S. Cash Grains-Corn, soy river basis bids leak lower"
+1515,"22:05:48  RTRS - TABLE-Commodity funds net sellers of corn, net buyers of soybeans"
+1517,21:25:36  RTRS - CBOT corn closes lower on U.S. planting outlook
+1519,"19:40:58  RTRS - U.S. Cash Grains-Corn, soy basis at rivers drift lower"
+1522,18:51:58  RTRS - INTL FCStone cuts estimate for Brazil's winter corn crop by 12 pct
+1548,16:34:23  CRF - CRF: US corn up on rapid planting progress and weather
+1552,"16:16:11  RTRS - CBOT Trends-Corn down 2-3 cents, soy down 3-6 cents, wheat steady-down 2 cents"
+1554,16:00:05  RTRS - Exporters sell U.S. corn to Japan - USDA
+1568,"13:30:38  RTRS - GRAINS-Soybeans, corn dip for 2nd day on fund selling, wheat steadies"
+1575,"06:32:40  RTRS - GRAINS-Soy, corn dip for 2nd day on fund selling, wheat near 2-week low"
+1576,06:05:08  RTRS - TECHNICALS-CBOT corn may drop to $3.73-1/4
+1584,"23:48:35  RTRS - Export Summary-Israel seeks corn, wheat; Thailand seeks soymeal"
+1590,"22:48:17  RTRS - GRAINS-Profit taking spark sell-off in U.S. corn, soy, wheat"
+1595,"22:05:46  RTRS - TABLE-Commodity funds big sellers of wheat, corn and soy"
+1599,21:24:09  RTRS - CBOT corn falls on technical selling
+1607,"19:14:08  RTRS - U.S. Cash Grains-Corn, soy basis mostly steady as futures stumble"
+1609,"19:00:33  RTRS - GRAINS-U.S. wheat, soy, corn drop on profit taking, technical setback"
+1624,17:33:54  RTRS - Brazil winter corn crop seen down 4 pct due to drought - analyst
+1632,"16:26:13  RTRS - CBOT Trends-Wheat steady-up 1 cent, corn down 1-2, soy up 4-6"
+1643,"12:55:26  RTRS - Algeria bought at least 30,000 tonnes corn in tender - trade"
+1645,"08:02:26  RTRS - UPDATE 1-Israeli group tenders for 120,000 T corn, 40,000 T wheat- trade"
+1646,"07:46:27  RTRS - Israeli group tenders for 120,000 T corn, 40,000 T wheat- trade"
+1649,06:38:23  RTRS - TECHNICALS-CBOT corn targets $3.98-3/4
+1661,00:16:17  RTRS - Analyst slashes Brazil winter corn crop forecast 10 pct
+1692,22:07:45  RTRS - USDA says corn use in ethanol down from last year in March
+1695,"21:58:51  RTRS - TABLE-Commodity funds net buyers of soybeans, net sellers of wheat, corn"
+1696,21:38:39  RTRS - CBOT corn closes unchanged as planting weather improves
+1729,20:36:11  RTRS - U.S. Cash Grains-Farmer sales soften corn basis; soy flat/firm
+1730,19:23:14  RTRS - POLL-U.S. corn plantings seen 47 pct complete in latest week
+1733,"18:25:08  RTRS - CIF Gulf Grain-Corn, soy basis bids flat on light offerings"
+1736,"17:54:43  RTRS - GRAINS-Corn, soy ease on U.S. planting outlook; wheat falls on harvest prospects"
+1739,16:18:42  RTRS - CBOT Trends-Wheat down 3-5 cts; corn steady to down 2; soy mixed
+1740,"14:21:23  RTRS - GRAINS-Corn eases after April rise, dry spell to boost U.S. planting"
+1744,07:18:53  RTRS - GRAINS-Corn prices fall with U.S. weather set to help planting
