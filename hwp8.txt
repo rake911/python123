@@ -1,0 +1,20 @@
+fname = raw_input("Enter file name: ")
+if len(fname) == 0:
+	fname = "romeo.txt"
+fh = open(fname)    
+
+count = 0
+lst = []
+x = []
+#x = x.extend([None]*50)
+
+for line in fh:
+    lst = line.split()
+    print lst
+    
+    for word in lst:
+        if word in lst : continue
+        else:
+            x = x.append(word) 
+               
+print x

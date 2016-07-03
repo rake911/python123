@@ -1,0 +1,86 @@
+05 June 2016
+07:50:31  RTRS - CFTC報告：CBOT玉米期貨5月31日持倉報告(表)
+07:50:31  RTRS - CFTC报告：CBOT玉米期货5月31日持仓报告(表)
+04 June 2016
+19:01:15  ASSOPR - BC-US--Divided America-Refugee Data,ADVISORY, US
+06:08:35  RTRS - China auctions 1.79 mln tonnes of corn from state reserves -national trade centre
+02:20:17  RTRS - Grain ships loading at Argentine ports  AR/SHIP01 
+02:20:17  RTRS - Grain ships loading at Argentine ports  AR/SHIP01 
+01:23:45  RTRS - FOB Gulf Grain-Soybean premiums hold near highs on good demand
+00:16:00  CNBC - Reuters Insider - Growing careers in agriculture
+00:14:43  RTRS - GRANOS-Soja cierra con pérdidas en Argentina, detrás de futuros de Chicago
+00:11:51  RTRS - U.S. Cash Grains-Soy basis generally steady/lower as futures ease
+00:02:27  RTRS - Export Summary-Algeria buys wheat; U.S. ethanol exports hit 4-year high
+03 June 2016
+23:44:57  RTRS - 芝加哥期市：CBOT玉米上漲，因出口需求強勁
+23:44:57  RTRS - 芝加哥期市：CBOT玉米上涨，因出口需求强劲
+23:22:05  ESLQ - ESALQ Corn Analysis
+23:14:23  XINHUN - Chicago agricultural commodities close mixed
+22:54:32  RTRS - Soja cai na CBOT após tocar maior nível em 2 anos; milho e trigo se firmam
+22:46:08  RTRS - GRANOS-Soja cae en Chicago por toma de ganancias, maíz y trigo suben
+22:25:32  RTRS - GRAINS-Profit-taking pulls soy from 2-year highs; corn, wheat firm
+22:22:06  ESLQ - ESALQ Milho Analise
+22:16:39  RTRS - TABLE-FOB U.S. cash millfeed prices
+22:03:22  RTRS - TABLE-Funds buy corn, wheat; sell soybeans
+21:59:54  RTRS - USDA attache leaves India 2016/17 wheat crop forecast at 88.0 mln T
+21:35:11  RTRS - FCStone reduz projeção da 2ª safra de milho do Brasil para 49,8 mi t em 2015/16
+21:33:05  RTRS - CBOT corn rises as exports heat up
+21:20:33  RTRS - CBOT JULY CORN  CN6 UNOFFICIALLY CLOSES UP 3-3/4 CTS AT $4.19 ON STRONG EXPORT SALES, ENDS WEEK UP 1.5 PCT - TRADE  CN6 
+21:17:11  RTRS - BRIEF-INTL FCStone cuts 434,000 t more from Brazil 2nd corn crop
+20:54:46  RTRS - Informa aumenta previsão de produção de trigo nos EUA
+19:52:23  RTRS - Informa eleva estimación para la producción de trigo de EEUU en 2016
+19:46:44  RTRS - U.S. Cash Grains-Soybean bids steady to firm despite weak futures
+19:44:38  RTRS - BRIEF-Citi sees supply tightness keeping biofuels credit prices high
+19:35:11  RTRS - Informa raises U.S. winter wheat production forecast
+19:14:02  RTRS - INFORMA ECONOMICS MANTÉM PREVISÃO DE PRODUÇÃO DE SOJA NA ARGENTINA EM 55 MI TON NA SAFRA 2015/16--OPERADORES
+19:12:51  RTRS - INFORMA REDUZ PREVISÃO DE PRODUÇÃO TOTAL DE MILHO NO BRASIL A 78,9 MI TON (ANTE 81 MI) - OPERADORES
+19:11:59  RTRS - INFORMA ECONOMICS PREVÊ PRODUÇÃO DE SOJA NO BRASIL NA SAFRA 2015/16 EM 98,5 MI TON (ANTE 100,1 MI ) --OPERADORES
+19:07:49  RTRS - INFORMA BAJA PRONÓSTICO DE PRODUCCIÓN TOTAL DE MAÍZ EN BRASIL A  78,9 MLN TON (PREVIA 81 MLN): OPERADORES
+19:06:23  RTRS - INFORMA PRONOSTICA PRODUCCIÓN DE SOJA EN BRASIL EN 2015/16 DE  98,5 MLN TON (ANTES 100,1 MLN): OPERADORES
+19:05:20  RTRS - INFORMA ECONOMICS DEJA SIN CAMBIOS ESTIMACIÓN DE PRODUCCIÓN DE  SOJA EN ARGENTINA EN 55 MILLONES TONELADAS EN 2015/2016:  OPERADORES
+19:04:39  RTRS - CIF Gulf Grain-Corn, soybean basis bids steady to weak
+19:02:34  RTRS - INFORMA LEAVES ARGENTINA 2015/16 SOYBEAN PRODUCTION UNCHANGED AT 55.0 MILLION TONNES - TRADE
+19:01:52  RTRS - INFORMA LOWERS BRAZIL 2015/16 SOYBEAN PRODUCTION FORECAST TO 98.5 MILLION TONNES (PREVIOUS 100.1 MILLION) - TRADE
+19:01:09  RTRS - INFORMA LOWERS BRAZIL 2015/16 ALL-CORN PRODUCTION FORECAST TO 78.9 MILLION TONNES (PREVIOUS 81.0 MILLION) - TRADE
+19:00:27  RTRS - INFORMA  SEES 2016 U.S. HARD RED WINTER WHEAT PRODUCTION AT 882 MILLION BUSHELS, SOFT RED WINTER AT 353 MILLION, WHITE WINTER AT 214 MILLION - TRADE
+19:00:02  RTRS - INFORMA ECONOMICS RAISES FORECAST OF U.S. 2016 WINTER WHEAT PRODUCTION TO 1.448 BILLION BU (PREVIOUS 1.405 BILLION) - TRADE
+18:48:09  RTRS - CORRECTED-EU wheat prices hit 3-1/2 month high as crop outlook dims
+18:39:56  RTRS - GRAINS-U.S. soy drops from 2-year highs on profit taking; wheat firms
+18:29:28  RTRS - Pronóstico meteorológico para región agropecuaria de Argentina
+17:44:19  RTRS - U.S. ethanol exports hit 4-year high in April -USDA
+17:34:20  RTRS - U.S. ETHANOL EXPORTS IN APRIL TOTALED 95.5 MILLION GALLONS, UP  SLIGHTLY FROM MARCH AND LARGEST SINCE DECEMBER OF 2011 -USDA
+17:30:25  RTRS - France/Prix des céréales et oléagineux
+17:30:23  RTRS - French grain and oilseed prices
+17:21:34  RTRS - Mato Grosso colhe 2,8% da área de milho; colheita adiantada ante 2015, diz Imea
+17:12:04  RTRS - COLHEITA DE MILHO EM MATO GROSSO AVANÇA PARA 2,8% DA ÁREA TOTAL,  ANTE 1,40% NA MESMA ÉPOCA DO ANO PASSADO, DIZ IMEA
+16:29:19  RTRS - Indian oilseeds, soyoil rise on upbeat global markets
+16:25:10  RTRS - CBOT Trends-Wheat up 1-3 cents, corn up 1-2, soybeans up 15-18
+14:55:38  RTRS - RPT-TABLE-Trade estimates for USDA weekly grain, soy export sales
+14:05:00  RTRS - RPT-Record Brazil corn prices shrink poultry, hog producers
+13:49:11  RTRS - GRAINS-U.S. soybeans climb to two-year high on Argentina rains
+11:53:22  RTRS - UPDATE 1-French cereal crop conditions worsen as rain worries grow
+10:25:25  RTRS - French cereal crop ratings fell last week - farm office
+10:14:42  RTRS - FRANCEAGRIMER RATES 79 PCT OF GRAIN MAIZE GOOD/EXCELLENT BY MAY 30 AGAINST 84 PCT PREVIOUS WEEK
+10:14:18  RTRS - FRANCEAGRIMER ESTIMATES 98 PCT OF GRAIN MAIZE SOWN BY MAY 30 VS 95 PCT PREVIOUS WEEK
+10:13:55  RTRS - FRANCEAGRIMER RATES 78 PCT OF WINTER BARLEY GOOD/EXCELLENT BY MAY 30 VS 83 PCT PREVIOUS WEEK, SPRING BARLEY UNCHANGED AT 93 PCT
+10:13:14  RTRS - FRANCEAGRIMER ESTIMATES 87 PCT OF SOFT WHEAT AT HEADING GROWTH STAGE BY MAY 30 VS 57 PCT PREVIOUS WEEK
+10:12:53  RTRS - FRENCH FARM OFFICE FRANCEAGRIMER RATES 81 PCT OF SOFT WHEAT CROPS GOOD/EXCELLENT BY MAY 30 VS 83 PCT PREVIOUS WEEK
+08:29:46  RTRS - Heavy rains expected to drive Australian wheat production above estimates
+07:07:52  RTRS - GRAINS-Soybeans set for 8th week of gains on Argentina's supply woes
+07:00:01  RTRS - Record Brazil corn prices shrink poultry, hog producers
+06:40:40  RTRS - TECHNICALS-CBOT corn may seek support around $4.10-1/4 before rising
+05:02:45  RTRS - 芝加哥期市：大豆合約有望創19個月最大單周漲幅
+05:02:45  RTRS - 芝加哥期市：大豆合约有望创19个月最大单周涨幅
+04:48:35  RTRS - GRAINS-Soybeans edge lower, set for biggest weekly gain in 19 months
+04:25:25  INDIAE - Change sweeps maize fields: Online auction, better prices
+02:15:09  RTRS - GRANOS-Soja cierra con subidas en Argentina, sigue a escalada de futuros en Chicago
+01:44:32  RTRS - Widely used U.S. farm chemical atrazine may threaten animals -EPA
+01:40:39  RTRS - U.S. ethanol prices at 18-month highs raise expectations of rising output
+01:01:13  RTRS - FOB Gulf Grain-Soybean premiums jump on old-crop demand
+00:45:54  RTRS - Grain ships loading at Argentine ports  AR/SHIP01 
+00:45:54  RTRS - Grain ships loading at Argentine ports  AR/SHIP01 
+00:23:22  XINHUN - Chicago agricultural commodities extend gains
+00:14:01  RTRS - 芝加哥期市：CBOT玉米收高，因擔心巴西供應短缺及大豆和小麥期貨上漲
+00:14:01  RTRS - 芝加哥期市：CBOT玉米收高，因担心巴西供应短缺及大豆和小麦期货上涨
+----------------------------------------------------------------------------------
+Thomson Reuters 2016. All rights reserved. The Thomson Reuters content received through this service is the intellectual property of Thomson Reuters or its third party suppliers. Republication or redistribution of content provided by Thomson Reuters is expressly prohibited without the prior written consent of Thomson Reuters, except where permitted by the terms of the relevant Thomson Reuters service agreement. Neither Thomson Reuters nor its third party suppliers shall be liable for any errors, omissions or delays in content, or for any actions taken in reliance thereon. Thomson Reuters and its logo are registered trademarks or trademarks of the Thomson Reuters group of companies around the world.
